@@ -1,2 +1,2 @@
 console.log('version 3');
-console.log('Feature commit 3');
+console.log('conflict 1');
